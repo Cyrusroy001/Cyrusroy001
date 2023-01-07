@@ -13,7 +13,7 @@
 <!--   <img src="https://komarev.com/ghpvc/?username=Cyrusroy001&style=flat-square&color=blue" alt=""/> -->
   
   <h1>
-  heyo
+  hey.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 </div>
@@ -21,7 +21,7 @@
 ---
 
 ### :man_technologist: Little about Me :
-I am a CSE undergrad <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based on India.
+I am a CSE undergrad <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in India.
 - :man_mechanic: I develop full-stack websites.
 
 - :man_scientist: Exploring web3 and blockchain technology.
